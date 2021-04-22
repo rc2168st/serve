@@ -1,26 +1,37 @@
 {
-  "project_V3_serp":{
-    "status":1,
-    "validity":"15/11/2019",
-    "comment":"serp"
-    
-  },
-  "project_V4_3":{
-    "status":1,
-    "validity":"15/11/2019",
-    "comment":"serp",
-    "content":" "
-    
-  },
-  "project_2":{
-    "status":0,
-    "validity":"15/11/2019"
-    
-  },
-  "project_S2_1":{
-    "status":1,
-     "init":"01/02/2021",
-      "comment":"related to project_V4_3",
-      "exec":""
-}
+    "project_V3_serp":
+    {
+        "status": 1,
+        "validity": "15/11/2019",
+        "comment": "serp"
+
+    },
+    "project_V4_3":
+    {
+        "status": 1,
+        "validity": "15/11/2019",
+        "comment": "serp",
+        "content": " "
+
+    },
+    "project_2":
+    {
+        "status": 0,
+        "validity": "15/11/2019"
+
+    },
+    "project_S2_1":
+    {
+        "status": 1,
+        "init": "01/02/2021",
+        "comment": "related to project_V4_3",
+        "exec": ""
+    },
+    "project_S2_demo":
+    {
+        "status": 1,
+        "init": "22/04/2021",
+        "comment": "ecommerce scrapping",
+        "exec": ""
+    }
 }
