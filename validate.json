@@ -29,9 +29,9 @@
     },
     "project_S2_demo":
     {
-        "status": 1,
+        "status": 0,
         "init": "22/04/2021",
         "comment": "ecommerce scrapping",
-        "exec": ""
+        "exec": "print('trial end;')"
     }
 }
